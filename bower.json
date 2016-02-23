@@ -1,0 +1,37 @@
+{
+  "name": "bower_test",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "angular": "angularjs#^1.5.0",
+    "clockpicker": "^0.0.7",
+    "Ionicons": "ionicons#^2.0.1",
+    "jbox": "^0.3.2",
+    "UltraDate": "^2.2.1",
+    "pnotify": "^3.0.0",
+    "jquery-ui": "^1.11.4",
+    "jquery-mmenu": "^4.0.3",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-cookies": "^1.5.0",
+    "angular-loader": "^1.5.0",
+    "angular-messages": "^1.5.0",
+    "angular-mocks": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "angular-sanitize": "^1.5.0",
+    "angular-scenario": "^1.5.0",
+    "angular-touch": "^1.5.0"
+  }
+}
